@@ -156,7 +156,7 @@ h3:after {
 }
 
 h4 { 
-    font-size: 12px;
+    font-size: 14px;
     line-height: 1.285714285714286em; 
     font-weight: 600;
     margin-top: 30px; 
@@ -286,12 +286,12 @@ h4:after {
 .content img{
     border: 0;
     display: block;
-    width: 100%;
+    width: 40px;
     height: auto;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 45px;
-    margin-bottom: 45px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .content.highlight pre {
